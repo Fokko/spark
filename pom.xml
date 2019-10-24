@@ -408,7 +408,7 @@
       <dependency>
         <groupId>org.jpmml</groupId>
         <artifactId>pmml-model</artifactId>
-        <version>1.4.8</version>
+        <version>1.4.15</version>
         <scope>provided</scope>
         <exclusions>
           <exclusion>
